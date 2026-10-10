@@ -72,10 +72,10 @@
 
 ---
 
-## 📊 LANGUAGE DISTRIBUTION
+##  LANGUAGE DISTRIBUTION
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa2531&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=FFFFFF&count_private=true&size_weight=0.5&count_weight=0.5?v=4" height="280"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa2531&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=FFFFFF&count_private=true?v=2" height="280"/>
 </p>
 
 ---
