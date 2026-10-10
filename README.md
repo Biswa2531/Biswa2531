@@ -16,7 +16,7 @@
         def __init__(self):
             self.name = "Biswajit Rout"
             self.username = "Biswa2531"
-            self.location = "Bengaluru, India 🇮"
+            self.location = "Bengaluru, India 🇮🇳"
             self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python", "C", "Java", "C++", "React"]
             self.passion = "Building responsive web apps and AI systems"
 
@@ -28,9 +28,12 @@
 
 ---
 
-##  CONNECT
+## 🌐 CONNECT
 
 <p align="center">
+  <a href="mailto:routbiswajit293@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://github.com/Biswa2531">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
   </a>
@@ -69,23 +72,23 @@
 
 ---
 
-##  LANGUAGE DISTRIBUTION
+## 📊 LANGUAGE DISTRIBUTION
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa2531&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=FFFFFF&count_private=true&size_weight=0.5&count_weight=0.5?v=3" height="280"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa2531&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=FFFFFF&count_private=true&size_weight=0.5&count_weight=0.5?v=4" height="280"/>
 </p>
 
 ---
 
-## 📊 GITHUB METRICS & ACTIVITY
+## 📈 GITHUB METRICS & ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true&card_width=500?v=3" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswa2531&theme=dark&bg_color=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=ffffff?v=3" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true&card_width=500?v=4" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswa2531&theme=dark&bg_color=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=ffffff?v=4" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa2531&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true?v=3" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa2531&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true?v=4" alt="Activity Graph" />
 </p>
 
 ---
@@ -93,7 +96,7 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biswa2531/Biswa2531/output/github-snake-dark.svg?v=3" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Biswa2531/Biswa2531/output/github-snake-dark.svg?v=4" alt="Contribution Snake" />
 </p>
 
 ---
@@ -105,16 +108,16 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 [Multi-Agent Interview System](https://github.com/Biswa2531/multi-agent-interview-system) | AI-powered multi-agent system for dynamic interview simulation and career coaching | JavaScript, AI/ML | 🔒 Private |
-|  [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit | Python, Streamlit | 🔒 Private |
+| 📄 [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit | Python, Streamlit | 🔒 Private |
 
-###  Web Applications
+### 🌐 Web Applications
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🎓 [E-Learning-Website-HTML-CSS](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform with responsive design | SCSS, HTML, CSS, Bootstrap, JS |  Public |
-| 📖 [Open-E-Library](https://github.com/Biswa2531/Open-E-Library) | Responsive front-end web application for online library | HTML, CSS, JS |  Public |
+| 🎓 [E-Learning-Website-HTML-CSS](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform with responsive design | SCSS, HTML, CSS, Bootstrap, JS | 🌍 Public |
+| 📖 [Open-E-Library](https://github.com/Biswa2531/Open-E-Library) | Responsive front-end web application for online library | HTML, CSS, JS | 🌍 Public |
 | 🏨 [HotelMenuManagementSystem](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel Menu Management System | PHP, MySQL | 🌍 Public |
-|  [bookstore-main](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP | 🌍 Public |
+| 📚 [bookstore-main](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP | 🌍 Public |
 
 ### 💼 Management Systems
 
@@ -130,7 +133,7 @@
 - 🔭 Working on **Multi-Agent AI Interview System** & **Resume Analyzer**
 - 🌱 Learning **Advanced Python, React, AI/ML & Streamlit**
 - 💬 Ask me about **HTML/CSS, PHP, MySQL, Python, JavaScript, React**
--  Fun fact: **67 contributions in the last year!**
+- ⚡ Fun fact: **67 contributions in the last year!**
 - 📍 Based in **Bengaluru, India**
 
 ---
