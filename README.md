@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Biswa2531/Biswa2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=ADHI-DEBUG;Biswajit+Rout;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+### AI Engineer | Full Stack Architect | System Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cyber Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0a2e&height=200&section=header&text=BISWA-DEBUG&fontSize=60&fontColor=00ff88&animation=twinkling)
+
+</div>
+
+---
+
+## 💻 Cyber Code Creator
+
+python
+class BiswajitRout:
+def init(self):
+self.name = "Biswajit Rout"
+self.username = "Biswa2531"
+self.location = "Bengaluru, India 🇮"
+self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python"]
+self.passion = "Building responsive web apps and logic"
+
+def current_focus(self):
+    return ["Web Development", "Full Stack Projects", "Open Source"]
+
+    
+---
+
+##  CONNECT
+
+<p align="center">
+  <a href="https://github.com/Biswa2531">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/biswajitrout2526">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/itz_biswa_811">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ TECH MATRIX
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
+## 📊 GITHUB METRICS & ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswa2531&theme=dark&bg_color=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa2531&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswa2531/Biswa2531/output/github-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+|  [E-Learning-Website](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform | SCSS, HTML, JS |
+|  [Hotel Menu System](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel menu management | PHP, MySQL |
+|  [Bookstore](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP |
+| 🗳️ [Voting System](https://github.com/Biswa2531/online-voting-system) | Secure voting system in C | C |
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile! 🌟
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Biswa2531&label=Profile+Visitors&color=00ff88&style=for-the-badge)
+
+</div>
