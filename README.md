@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=ADHI-DEBUG;Biswajit+Rout;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=BISWA-DEBUG;Biswajit+Rout;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
 ### AI Engineer | Full Stack Architect | System Builder
 
@@ -12,19 +12,17 @@
 
 ## 💻 Cyber Code Creator
 
-python
-class BiswajitRout:
-def init(self):
-self.name = "Biswajit Rout"
-self.username = "Biswa2531"
-self.location = "Bengaluru, India 🇮"
-self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python"]
-self.passion = "Building responsive web apps and logic"
+    class BiswajitRout:
+        def __init__(self):
+            self.name = "Biswajit Rout"
+            self.username = "Biswa2531"
+            self.location = "Bengaluru, India 🇮🇳"
+            self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python"]
+            self.passion = "Building responsive web apps and logic"
 
-def current_focus(self):
-    return ["Web Development", "Full Stack Projects", "Open Source"]
+        def current_focus(self):
+            return ["Web Development", "Full Stack Projects", "Open Source"]
 
-    
 ---
 
 ##  CONNECT
@@ -82,9 +80,9 @@ def current_focus(self):
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-|  [E-Learning-Website](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform | SCSS, HTML, JS |
-|  [Hotel Menu System](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel menu management | PHP, MySQL |
-|  [Bookstore](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP |
+| 🎓 [E-Learning-Website](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform | SCSS, HTML, JS |
+| 🏨 [Hotel Menu System](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel menu management | PHP, MySQL |
+| 📚 [Bookstore](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP |
 | 🗳️ [Voting System](https://github.com/Biswa2531/online-voting-system) | Secure voting system in C | C |
 
 ---
