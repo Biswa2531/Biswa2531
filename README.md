@@ -4,7 +4,7 @@
 
 ### AI Engineer | Full Stack Architect | System Builder
 
-![Cyber Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0a2e&height=200&section=header&text=BISWAfontSize=60&fontColor=00ff88&animation=twinkling)
+![Cyber Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0a2e&height=200&section=header&text=BISWA&fontSize=60&fontColor=00ff88&animation=twinkling)
 
 </div>
 
