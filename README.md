@@ -72,12 +72,12 @@
 ## 📊 GITHUB METRICS & ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true&card_width=500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true&card_width=500&hide=contribs" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswa2531&theme=dark&bg_color=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Biswa2531&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswa2531&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -97,14 +97,14 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 [Multi-Agent Interview System](https://github.com/Biswa2531/multi-agent-interview-system) | AI-powered multi-agent system for dynamic interview simulation and career coaching | JavaScript, AI/ML | 🔒 Private |
-| 📄 [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit that evaluates how well a resume matches a job description | Python, Streamlit | 🔒 Private |
+|  [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit that evaluates how well a resume matches a job description | Python, Streamlit | 🔒 Private |
 
 ### 🌐 Web Applications
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 |  [E-Learning-Website-HTML-CSS](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform with responsive design and intuitive navigation | SCSS, HTML, CSS, Bootstrap, JS | 🌍 Public |
-| 📖 [Open-E-Library](https://github.com/Biswa2531/Open-E-Library) | Responsive front-end web application for simple and user-friendly online library experience | HTML, CSS, JS | 🌍 Public |
+| 📖 [Open-E-Library](https://github.com/Biswa2531/Open-E-Library) | Responsive front-end web application for simple and user-friendly online library experience | HTML, CSS, JS |  Public |
 | 🏨 [HotelMenuManagementSystem](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel Menu Management System for managing food items, categories, pricing, and menu operations | PHP, MySQL | 🌍 Public |
 | 📚 [bookstore-main](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP | 🌍 Public |
 
@@ -112,12 +112,12 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 👥 [CRM](https://github.com/Biswa2531/CRM) | Customer Relationship Management System | CSS, PHP |  Public |
+| 👥 [CRM](https://github.com/Biswa2531/CRM) | Customer Relationship Management System | CSS, PHP | 🌍 Public |
 | 🗳️ [online-voting-system](https://github.com/Biswa2531/online-voting-system) | Console-based online voting system in C that enables secure voting and prevents duplicate votes | C | 🌍 Public |
 
 ---
 
-## 🎯 CURRENT FOCUS
+##  CURRENT FOCUS
 
 - 🔭 Working on **Multi-Agent AI Interview System** & **Resume Analyzer**
 - 🌱 Learning **Advanced Python, AI/ML & Streamlit**
