@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=BISWA-DEBUG;Biswajit+Rout;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=BISWA;Biswajit+Rout;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
 ### AI Engineer | Full Stack Architect | System Builder
 
