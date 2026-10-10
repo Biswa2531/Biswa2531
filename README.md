@@ -17,7 +17,7 @@
             self.name = "Biswajit Rout"
             self.username = "Biswa2531"
             self.location = "Bengaluru, India 🇮🇳"
-            self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python"]
+            self.stack = ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Python", "C", "Java", "C++"]
             self.passion = "Building responsive web apps and logic"
 
         def current_focus(self):
@@ -46,16 +46,28 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 📊 GITHUB METRICS & ACTIVITY
+##  GITHUB METRICS & ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswa2531&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -68,7 +80,7 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+##  CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biswa2531/Biswa2531/output/github-snake.svg" alt="Contribution Snake" />
@@ -80,8 +92,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎓 [E-Learning-Website](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform | SCSS, HTML, JS |
-| 🏨 [Hotel Menu System](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel menu management | PHP, MySQL |
+|  [E-Learning-Website](https://github.com/Biswa2531/E-Learning-Website-HTML-CSS) | Modern e-learning platform | SCSS, HTML, JS |
+|  [Hotel Menu System](https://github.com/Biswa2531/HotelMenuManagementSystem) | Hotel menu management | PHP, MySQL |
 | 📚 [Bookstore](https://github.com/Biswa2531/bookstore-main) | E-Book store project | PHP |
 | 🗳️ [Voting System](https://github.com/Biswa2531/online-voting-system) | Secure voting system in C | C |
 
@@ -89,7 +101,7 @@
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile! 🌟
+### 🌟 Thanks for visiting my profile! 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Biswa2531&label=Profile+Visitors&color=00ff88&style=for-the-badge)
 
