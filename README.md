@@ -108,7 +108,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 [Multi-Agent Interview System](https://github.com/Biswa2531/multi-agent-interview-system) | AI-powered multi-agent system for dynamic interview simulation and career coaching | JavaScript, AI/ML | 🔒 Private |
-| 📄 [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit | Python, Streamlit | 🔒 Private |
+| 📄 [Resumeanalyzer](https://github.com/Biswa2531/Resumeanalyzer) | AI Resume Analyzer web app built using Python and Streamlit | Python, Streamlit | 🌍 Public |
 
 ### 🌐 Web Applications
 
